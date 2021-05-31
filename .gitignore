@@ -4,3 +4,4 @@ venv/
 movimiento.db
 .vscode/
 config.py
+pip
